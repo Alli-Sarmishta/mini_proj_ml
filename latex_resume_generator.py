@@ -2,6 +2,8 @@ import os
 import subprocess
 import uuid
 
+
+
 OUTPUT_DIR = "generated_resumes"
 
 def generate_resume_pdf(data):

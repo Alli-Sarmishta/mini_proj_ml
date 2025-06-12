@@ -1,4 +1,6 @@
-#!/Users/allisarmishta/Desktop/resume-test/venv/bin/python3
+#!/bin/sh
+'''exec' "/Users/allisarmishta/Desktop/New Folder With Items/resume-test/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
